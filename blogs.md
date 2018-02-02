@@ -1,0 +1,116 @@
+【Spark+Hadoop基础】
+(必读)[Spark官方文档](http://spark.apache.org/docs/latest/)
+(必读)[Spark ML 官方文档](http://spark.apache.org/docs/latest/ml-guide.html)
+(必读)[Spark参数配置官方文档](http://spark.apache.org/docs/latest/configuration.html)
+[Spark在美团的实践](http://tech.meituan.com/spark-in-meituan.html)
+[Spark核心技术与实践](https://yq.aliyun.com/topic/69?utm_content=m_17543)
+[spark机器学习算法研究和源码分析](https://github.com/endymecy/spark-ml-source-analysis)
+[Apache Spark 内存管理详解](http://wrox.cn/article/100097425/)
+[Spark入门实战系列--9.Spark GraphX介绍及实例](http://blog.csdn.net/yirenboy/article/details/47844677)
+[HDFS NameNode内存全景](http://tech.meituan.com/namenode.html)
+[HDFS NameNode内存详解](http://tech.meituan.com/namenode-memory-detail.html)
+[Spark机器学习库（MLlib）指南](http://wrox.cn/article/100077286/)
+[大数据学习——Spark Structured Streaming入门编程指南](http://wrox.cn/article/100096772/)
+[Databricks孟祥瑞：ALS 在 Spark MLlib 中的实现](http://www.csdn.net/article/2015-05-07/2824641)
+(必读)[Spark性能优化指南——基础篇](http://tech.meituan.com/spark-tuning-basic.html)
+(必读)[Spark性能优化指南——高级篇](http://tech.meituan.com/spark-tuning-pro.html)
+[Spark性能优化之道——解决Spark数据倾斜（Data Skew）的N种姿势](http://www.cnblogs.com/jasongj/p/6508150.html)
+[Spark的性能调优](http://www.raychase.net/3546)
+[Spark性能优化——和shuffle搏斗](http://www.raychase.net/3788)
+[Spark 性能相关参数配置详解－shuffle篇](http://blog.csdn.net/colorant/article/details/38680581)
+[Hadoop YARN在异构环境下应用与实践-Hulu大数据架构组负责人董西成](https://pan.baidu.com/s/1hslSG64?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0)
+[GC调优在Spark应用中的实践](http://dataunion.org/19227.html)
+[Spark On YARN内存分配](http://blog.javachen.com/2015/06/09/memory-in-spark-on-yarn.html)
+[Apache Spark探秘：实现Map-side Join和Reduce-side Join](http://dongxicheng.org/framework-on-yarn/apache-spark-join-two-tables/)
+[spark 应用程序性能优化|12 个优化方法](http://www.36dsj.com/archives/55400)
+[Apache Spark Jobs 性能调优（二）](https://www.zybuluo.com/xiaop1987/note/102894)
+[Spark Streaming + Elasticsearch构建App异常监控平台](http://tech.meituan.com/spark-streaming-es.html)
+[使用基于Apache Spark的随机森林方法预测贷款风险](http://wrox.cn/article/100077656/)
+[DataBricks: Apache® Spark™ MLlib 2.x: How to Productionize your Machine Learning Models](https://www.slideshare.net/julesdamji/apache-spark-mllib-2x-how-to-productionize-your-machine-learning-models)
+[Using Apache Spark for large-scale language model training](https://code.facebook.com/posts/678403995666478/using-apache-spark-for-large-scale-language-model-training/)
+[Apache Spark as a Compiler: Joining a Billion Rows per Second on a Laptop](https://databricks.com/blog/2016/05/23/apache-spark-as-a-compiler-joining-a-billion-rows-per-second-on-a-laptop.html)
+[Processing a Trillion Rows Per Second on a Single Machine: How Can Nested Loop Joins be this Fast?](https://databricks.com/blog/2017/02/16/processing-trillion-rows-per-second-single-machine-can-nested-loop-joins-fast.html)
+[Recommending items to more than a billion people](https://code.facebook.com/posts/861999383875667/recommending-items-to-more-than-a-billion-people/)
+[Apache Spark Scale: A 60 TB+ production use case](https://code.facebook.com/posts/1671373793181703/apache-spark-scale-a-60-tb-production-use-case/)
+[Accelerating Apache Spark MLlib with Intel® Math Kernel Library (Intel® MKL)](https://blog.cloudera.com/blog/2017/02/accelerating-apache-spark-mllib-with-intel-math-kernel-library-intel-mkl/)
+[Spark Job执行流程源码解析](http://www.jianshu.com/p/ce982840671a)
+
+<br>
+【xgboost】
+[xgboost原理及应用](http://www.cnblogs.com/zhouxiaohui888/p/6008368.html)
+[xgboost入门与实战（原理篇）](http://blog.csdn.net/sb19931201/article/details/52557382)
+[XGboost: A Scalable Tree Boosting System论文及源码导读](http://mlnote.com/2016/10/05/a-guide-to-xgboost-A-Scalable-Tree-Boosting-System/)
+[XGboost核心源码阅读](http://mlnote.com/2016/10/29/xgboost-code-review-with-paper/)
+[Introduction to Boosted Trees](http://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf)
+[Introduction to Boosted Trees](https://xgboost.readthedocs.io/en/latest/model.html)
+[XGBoost 与 Boosted Tree(xgboost作者文章)](http://www.52cs.org/?p=429)
+[xgboost之spark上运行-scala接口](http://blog.csdn.net/luoyexuge/article/details/71422270)
+[xgboost原理](http://blog.csdn.net/a819825294/article/details/51206410)
+[Complete Guide to Parameter Tuning in XGBoost (with codes in Python) xgboost参数调优](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
+[大杀器xgboost指南](http://blog.csdn.net/bryan__/article/details/52056112)
+[xgboost: 速度快效果好的boosting模型](https://cos.name/2015/03/xgboost/)
+
+<br>
+【随机森林】
+(必读)[随机森林算法主页](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
+(讲的很清楚)[随机森林](http://www.cnblogs.com/maybe2030/p/4585705.html)
+
+<br>
+【word2vec】
+(必读)[word2vec官网](https://code.google.com/archive/p/word2vec/)
+[Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546.pdf)
+[Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
+[Exploiting Similarities among Languages for Machine Translation](https://arxiv.org/pdf/1309.4168.pdf)
+[词向量之Word2vector原理浅析](http://www.jianshu.com/p/b2da4d94a122)
+[word2vector学习笔记（一）](http://blog.csdn.net/lingerlanlan/article/details/38048335)
+(必读)[Deep Learning实战之word2vec](http://techblog.youdao.com/?p=915)
+(必读)[word2vec 中的数学原理详解](https://www.cnblogs.com/peghoty/p/3857839.html)
+[word2vec 入门基础](https://www.cnblogs.com/tina-smile/p/5176441.html)
+
+<br>
+【LDA】
+[Latent Dirichlet Allocation原始论文](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
+[LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
+[通俗理解LDA主题模型](http://blog.csdn.net/v_july_v/article/details/41209515?utm_source=tuicool)
+[LDA漫游指南](https://yuedu.baidu.com/ebook/d0b441a8ccbff121dd36839a)
+(必读)[LDA数学八卦](http://www.52nlp.cn/lda-math-%E6%B1%87%E6%80%BB-lda%E6%95%B0%E5%AD%A6%E5%85%AB%E5%8D%A6)
+[LDA工程实践之算法篇-1.算法实现正确性验证](http://www.flickering.cn/nlp/2014/07/lda%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5%E4%B9%8B%E7%AE%97%E6%B3%95%E7%AF%87-1%E7%AE%97%E6%B3%95%E5%AE%9E%E7%8E%B0%E6%AD%A3%E7%A1%AE%E6%80%A7%E9%AA%8C%E8%AF%81/)
+[LDA工程实践之算法篇-2.SparseLDA算法](http://www.flickering.cn/nlp/2014/10/lda%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5%E4%B9%8B%E7%AE%97%E6%B3%95%E7%AF%87-2-sparselda%E7%AE%97%E6%B3%95/)
+[主题模型算法](http://blog.sina.com.cn/s/blog_8eee7fb60101czhx.html)
+[Spark LDA文档](https://spark.apache.org/docs/latest/mllib-clustering.html#latent-dirichlet-allocation-lda)
+
+<br>
+【SVD】
+[We Recommend a Singular Value Decomposition](http://www.ams.org/samplings/feature-column/fcarc-svd)
+[奇异值分解](http://www.flickering.cn/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E/2015/01/%E5%A5%87%E5%BC%82%E5%80%BC%E5%88%86%E8%A7%A3%EF%BC%88we-recommend-a-singular-value-decomposition%EF%BC%89/)
+
+<br>
+【Deep Learning】
+(必读)[pytorch官方教程:一系列入门示例](http://pytorch.org/tutorials/index.html)
+(必读)[pytorch官方教程:使用RNN进行名字分类](http://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html#sphx-glr-intermediate-char-rnn-classification-tutorial-py)
+[pytorch官方教程配套源码](https://github.com/spro/practical-pytorch/tree/master/char-rnn-classification)
+[莫烦的机器学习专栏：机器学习本来可以很简单](https://zhuanlan.zhihu.com/morvan)
+[深度炼丹专栏:分享在深度学习的一些项目实践与经验](https://zhuanlan.zhihu.com/c_94953554)
+(入门必看)[莫烦的pytorch视频教程](https://morvanzhou.github.io/tutorials/machine-learning/torch/)
+[Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+[[译] 理解 LSTM 网络](https://www.jianshu.com/p/9dc9f41f0b29)
+[用于文本分类的RNN-Attention网络](http://blog.csdn.net/thriving_fcl/article/details/73381217)
+[深度学习在文本分类中的应用](http://blog.csdn.net/u010223750/article/details/51437854)
+[用深度学习（CNN RNN Attention）解决大规模文本分类问题 - 综述和实践](https://zhuanlan.zhihu.com/p/25928551)
+[PyTorch快速入门教程七（RNN做自然语言处理](https://ptorch.com/news/11.html)
+[PyTorch快速入门教程八（使用word embedding做自然语言处理的词语预测）](https://ptorch.com/news/12.html)
+[PyTorch快速入门教程九（使用LSTM来做判别每个词的词性）](https://ptorch.com/news/13.html)
+[Text-CNN 文本分类](http://blog.csdn.net/chuchus/article/details/77847476)
+[Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1408.5882)
+[人工智障的深度瞎学之路:知乎看山杯夺冠记](https://zhuanlan.zhihu.com/p/28923961)
+[Text Classification, Part 2 - sentence level Attentional RNN](https://richliao.github.io/supervised/classification/2016/12/26/textclassifier-RNN/)
+
+<br>
+【其他】
+[浅谈机器学习基础（上）](http://www.jianshu.com/p/ed9ae5385b89)
+[Kaggle 首战拿银总结 | 入门指导 (长文、干货）](https://jizhi.im/blog/post/kaggle_silver)
+[斗鱼大数据的玩法](http://wrox.cn/article/100098261/)
+[Storm 的可靠性保证测试](http://tech.meituan.com/test-of-storms-reliability.html)
+[Scaling Apache Giraph to a trillion edges](https://code.facebook.com/posts/509727595776839/scaling-apache-giraph-to-a-trillion-edges/)
+[Large-scale graph partitioning with Apache Giraph](https://code.facebook.com/posts/274771932683700/large-scale-graph-partitioning-with-apache-giraph/)
+[逻辑回归算法](http://blog.nsfocus.net/tech/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2016/05/19/%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92%E7%AE%97%E6%B3%95.html)
