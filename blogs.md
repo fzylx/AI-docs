@@ -104,6 +104,10 @@
 [Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1408.5882)
 [人工智障的深度瞎学之路:知乎看山杯夺冠记](https://zhuanlan.zhihu.com/p/28923961)
 [Text Classification, Part 2 - sentence level Attentional RNN](https://richliao.github.io/supervised/classification/2016/12/26/textclassifier-RNN/)
+[Deep Learning for NLP Best Practices(深度学习中NLP的最佳实践)](http://ruder.io/deep-learning-nlp-best-practices/index.html)
+[基于pytorch的CNN、LSTM神经网络模型调参小结](https://www.cnblogs.com/bamtercelboo/p/7469005.html)
+[The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+[序列模型和基于LSTM的循环神经网络](https://zhuanlan.zhihu.com/p/28448135)
 
 <br>
 【其他】
