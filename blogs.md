@@ -85,7 +85,9 @@
 [奇异值分解](http://www.flickering.cn/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E/2015/01/%E5%A5%87%E5%BC%82%E5%80%BC%E5%88%86%E8%A7%A3%EF%BC%88we-recommend-a-singular-value-decomposition%EF%BC%89/)
 
 <br>
-【Deep Learning】
+【Machine Learing & Deep Learning】
+(必读)[系列教程：动手学深度学习-使用MXNet](http://zh.gluon.ai/)
+(必读)[系列教程：机器学习速成课程-使用TensorFlow(google出品)](https://developers.google.cn/machine-learning/crash-course/)
 (必读)[pytorch官方教程:一系列入门示例](http://pytorch.org/tutorials/index.html)
 (必读)[pytorch官方教程:使用RNN进行名字分类](http://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html#sphx-glr-intermediate-char-rnn-classification-tutorial-py)
 [pytorch官方教程配套源码](https://github.com/spro/practical-pytorch/tree/master/char-rnn-classification)
@@ -108,6 +110,7 @@
 [基于pytorch的CNN、LSTM神经网络模型调参小结](https://www.cnblogs.com/bamtercelboo/p/7469005.html)
 [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 [序列模型和基于LSTM的循环神经网络](https://zhuanlan.zhihu.com/p/28448135)
+[卷积神经网络(CNN)防止过拟合的方法](http://blog.csdn.net/leo_xu06/article/details/71320727)
 
 <br>
 【其他】
