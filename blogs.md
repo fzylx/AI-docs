@@ -34,6 +34,7 @@
 [Apache Spark Scale: A 60 TB+ production use case](https://code.facebook.com/posts/1671373793181703/apache-spark-scale-a-60-tb-production-use-case/)
 [Accelerating Apache Spark MLlib with Intel® Math Kernel Library (Intel® MKL)](https://blog.cloudera.com/blog/2017/02/accelerating-apache-spark-mllib-with-intel-math-kernel-library-intel-mkl/)
 [Spark Job执行流程源码解析](http://www.jianshu.com/p/ce982840671a)
+(实用)[万亿级数据规模下的倾斜调优](https://mp.weixin.qq.com/s/uuSe_kgw5QW_APVtk4zVHg)
 
 <br>
 【xgboost】
