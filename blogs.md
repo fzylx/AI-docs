@@ -87,6 +87,7 @@
 
 <br>
 【Machine Learing & Deep Learning】
+(入门必读，讲清了很多基础概念)[零基础入门深度学习](https://www.zybuluo.com/hanbingtao/note/433855)
 (必读)[系列教程：动手学深度学习-使用MXNet](http://zh.gluon.ai/)
 (必读)[系列教程：机器学习速成课程-使用TensorFlow(google出品)](https://developers.google.cn/machine-learning/crash-course/)
 (必读)[pytorch官方教程:一系列入门示例](http://pytorch.org/tutorials/index.html)
@@ -94,7 +95,7 @@
 [pytorch官方教程配套源码](https://github.com/spro/practical-pytorch/tree/master/char-rnn-classification)
 [莫烦的机器学习专栏：机器学习本来可以很简单](https://zhuanlan.zhihu.com/morvan)
 [深度炼丹专栏:分享在深度学习的一些项目实践与经验](https://zhuanlan.zhihu.com/c_94953554)
-(入门必看)[莫烦的pytorch视频教程](https://morvanzhou.github.io/tutorials/machine-learning/torch/)
+(入门必读)[莫烦的pytorch视频教程](https://morvanzhou.github.io/tutorials/machine-learning/torch/)
 [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 [[译] 理解 LSTM 网络](https://www.jianshu.com/p/9dc9f41f0b29)
 [用于文本分类的RNN-Attention网络](http://blog.csdn.net/thriving_fcl/article/details/73381217)
@@ -112,8 +113,8 @@
 [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 [序列模型和基于LSTM的循环神经网络](https://zhuanlan.zhihu.com/p/28448135)
 [卷积神经网络(CNN)防止过拟合的方法](http://blog.csdn.net/leo_xu06/article/details/71320727)
-
 <br>
+
 【其他】
 [浅谈机器学习基础（上）](http://www.jianshu.com/p/ed9ae5385b89)
 [Kaggle 首战拿银总结 | 入门指导 (长文、干货）](https://jizhi.im/blog/post/kaggle_silver)
