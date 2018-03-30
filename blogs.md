@@ -67,6 +67,8 @@
 (必读)[Deep Learning实战之word2vec](http://techblog.youdao.com/?p=915)
 (必读)[word2vec 中的数学原理详解](https://www.cnblogs.com/peghoty/p/3857839.html)
 [word2vec 入门基础](https://www.cnblogs.com/tina-smile/p/5176441.html)
+[Deep Learning in NLP （一）词向量和语言模型](http://licstar.net/archives/328)
+(必读)[《How to Generate a Good Word Embedding?》导读](http://licstar.net/archives/620)
 
 <br>
 【LDA】
