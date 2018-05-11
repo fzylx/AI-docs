@@ -69,6 +69,8 @@
 [word2vec 入门基础](https://www.cnblogs.com/tina-smile/p/5176441.html)
 [Deep Learning in NLP （一）词向量和语言模型](http://licstar.net/archives/328)
 (必读)[《How to Generate a Good Word Embedding?》导读](http://licstar.net/archives/620)
+[机器学习必须熟悉的算法之word2vector（一）](https://www.jianshu.com/p/1405932293ea)
+[机器学习必须熟悉的算法之word2vector（二）](https://www.jianshu.com/p/d0e2d00fb4f0)
 
 <br>
 【LDA】
@@ -125,3 +127,4 @@
 [Scaling Apache Giraph to a trillion edges](https://code.facebook.com/posts/509727595776839/scaling-apache-giraph-to-a-trillion-edges/)
 [Large-scale graph partitioning with Apache Giraph](https://code.facebook.com/posts/274771932683700/large-scale-graph-partitioning-with-apache-giraph/)
 [逻辑回归算法](http://blog.nsfocus.net/tech/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2016/05/19/%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92%E7%AE%97%E6%B3%95.html)
+[推荐系统候选池的两种去重策略](https://mp.weixin.qq.com/s?__biz=MzA4OTk5OTQzMg==&mid=2449231537&idx=1&sn=821697ae129e878b7d5714e4bcd16bc8&chksm=841abf96b36d368065e20e7bf1039ab267efc7067fcbe4b95e854606222735822196de7e2631&mpshare=1&scene=24&srcid=0511BJ2WtN6mAPEfRyWGGGu9&pass_ticket=%2FBT2vdYB2qaBlMLm7WCkhyX%2F%2FCWec2bA4OxLLtm7UXff47YnLRHzb9a4ExG%2BI%2FWk#rd)
