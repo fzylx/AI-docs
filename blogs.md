@@ -38,6 +38,7 @@
 
 <br>
 【xgboost】<br>
+[万亿级数据规模下的倾斜调优](https://mp.weixin.qq.com/s/uuSe_kgw5QW_APVtk4zVHg)<br>
 [xgboost原理及应用](http://www.cnblogs.com/zhouxiaohui888/p/6008368.html)<br>
 [xgboost入门与实战（原理篇）](http://blog.csdn.net/sb19931201/article/details/52557382)<br>
 [XGboost: A Scalable Tree Boosting System论文及源码导读](http://mlnote.com/2016/10/05/a-guide-to-xgboost-A-Scalable-Tree-Boosting-System/)<br>
