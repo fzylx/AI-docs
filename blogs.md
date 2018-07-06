@@ -1,4 +1,4 @@
-###Spark+Hadoop基础
+###Spark+Hadoop基础<br>
 (必读)[Spark官方文档](http://spark.apache.org/docs/latest/)<br>
 (必读)[Spark ML 官方文档](http://spark.apache.org/docs/latest/ml-guide.html)<br>
 (必读)[Spark参数配置官方文档](http://spark.apache.org/docs/latest/configuration.html)<br>
@@ -37,7 +37,7 @@
 (实用)[万亿级数据规模下的倾斜调优](https://mp.weixin.qq.com/s/uuSe_kgw5QW_APVtk4zVHg)<br>
 <br>
 
-###xgboost
+###xgboost<br>
 [xgboost原理及应用](http://www.cnblogs.com/zhouxiaohui888/p/6008368.html)<br>
 [xgboost入门与实战（原理篇）](http://blog.csdn.net/sb19931201/article/details/52557382)<br>
 [XGboost: A Scalable Tree Boosting System论文及源码导读](http://mlnote.com/2016/10/05/a-guide-to-xgboost-A-Scalable-Tree-Boosting-System/)<br>
@@ -52,12 +52,12 @@
 [xgboost: 速度快效果好的boosting模型](https://cos.name/2015/03/xgboost/)<br>
 <br>
 
-###随机森林
+###随机森林<br>
 (必读)[随机森林算法主页](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)<br>
 (讲的很清楚)[随机森林](http://www.cnblogs.com/maybe2030/p/4585705.html)<br>
 <br>
 
-###word2vec
+###word2vec<br>
 (必读)[word2vec官网](https://code.google.com/archive/p/word2vec/)<br>
 [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546.pdf)<br>
 [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)<br>
@@ -77,7 +77,7 @@
 (必读,几种句向量方法介绍)[An Overview of Sentence Embedding Methods](http://mlexplained.com/2017/12/28/an-overview-of-sentence-embedding-methods/)<br>
 <br>
 
-###NLP
+###NLP<br>
 [推荐系统候选池的两种去重策略](https://mp.weixin.qq.com/s?__biz=MzA4OTk5OTQzMg==&mid=2449231537&idx=1&sn=821697ae129e878b7d5714e4bcd16bc8&chksm=841abf96b36d368065e20e7bf1039ab267efc7067fcbe4b95e854606222735822196de7e2631&mpshare=1&scene=24&srcid=0511BJ2WtN6mAPEfRyWGGGu9&pass_ticket=%2FBT2vdYB2qaBlMLm7WCkhyX%2F%2FCWec2bA4OxLLtm7UXff47YnLRHzb9a4ExG%2BI%2FWk#rd)<br>
 [机器学习 | 八大步骤解决90%的NLP问题](https://zhuanlan.zhihu.com/p/36736328)<br>
 [基于局部敏感哈希的协同过滤算法之simHash算法](https://www.cnblogs.com/hxsyl/p/4456001.html)<br>
@@ -99,7 +99,7 @@
 [idf逆文档频率为什么要用log?](http://52opencourse.com/187/idf%E9%80%86%E6%96%87%E6%A1%A3%E9%A2%91%E7%8E%87%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%94%A8log)<br>
 <br>
 
-###LDA
+###LDA<br>
 [Latent Dirichlet Allocation原始论文](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)<br>
 [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)<br>
 [通俗理解LDA主题模型](http://blog.csdn.net/v_july_v/article/details/41209515?utm_source=tuicool)<br>
@@ -111,12 +111,12 @@
 [Spark LDA文档](https://spark.apache.org/docs/latest/mllib-clustering.html#latent-dirichlet-allocation-lda)<br>
 <br>
 
-###SVD
+###SVD<br>
 [We Recommend a Singular Value Decomposition](http://www.ams.org/samplings/feature-column/fcarc-svd)<br>
 [奇异值分解](http://www.flickering.cn/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E/2015/01/%E5%A5%87%E5%BC%82%E5%80%BC%E5%88%86%E8%A7%A3%EF%BC%88we-recommend-a-singular-value-decomposition%EF%BC%89/)<br>
 <br>
 
-###Machine Learing & Deep Learning
+###Machine Learing & Deep Learning<br>
 [浅谈机器学习基础（上）](http://www.jianshu.com/p/ed9ae5385b89)<br>
 (入门必读，讲清了很多基础概念)[零基础入门深度学习](https://www.zybuluo.com/hanbingtao/note/433855)<br>
 (必读)[系列教程：动手学深度学习-使用MXNet](http://zh.gluon.ai/)<br>
@@ -146,11 +146,11 @@
 [卷积神经网络(CNN)防止过拟合的方法](http://blog.csdn.net/leo_xu06/article/details/71320727)<br>
 <br>
 
-###数学
+###数学<br>
 (必读)[极大似然估计详解](https://blog.csdn.net/zengxiantao1994/article/details/72787849)<br>
 <br>
 
-###其他
+###其他<br>
 [Kaggle 首战拿银总结 | 入门指导 (长文、干货）](https://jizhi.im/blog/post/kaggle_silver)<br>
 [斗鱼大数据的玩法](http://wrox.cn/article/100098261/)<br>
 [Storm 的可靠性保证测试](http://tech.meituan.com/test-of-storms-reliability.html)<br>
