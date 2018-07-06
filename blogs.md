@@ -1,4 +1,4 @@
-【Spark+Hadoop基础】<br>
+###Spark+Hadoop基础
 (必读)[Spark官方文档](http://spark.apache.org/docs/latest/)<br>
 (必读)[Spark ML 官方文档](http://spark.apache.org/docs/latest/ml-guide.html)<br>
 (必读)[Spark参数配置官方文档](http://spark.apache.org/docs/latest/configuration.html)<br>
@@ -35,10 +35,9 @@
 [Accelerating Apache Spark MLlib with Intel® Math Kernel Library (Intel® MKL)](https://blog.cloudera.com/blog/2017/02/accelerating-apache-spark-mllib-with-intel-math-kernel-library-intel-mkl/)<br>
 [Spark Job执行流程源码解析](http://www.jianshu.com/p/ce982840671a)<br>
 (实用)[万亿级数据规模下的倾斜调优](https://mp.weixin.qq.com/s/uuSe_kgw5QW_APVtk4zVHg)<br>
+<br>
 
-<br>
-<br>
-【xgboost】<br>
+###xgboost
 [xgboost原理及应用](http://www.cnblogs.com/zhouxiaohui888/p/6008368.html)<br>
 [xgboost入门与实战（原理篇）](http://blog.csdn.net/sb19931201/article/details/52557382)<br>
 [XGboost: A Scalable Tree Boosting System论文及源码导读](http://mlnote.com/2016/10/05/a-guide-to-xgboost-A-Scalable-Tree-Boosting-System/)<br>
@@ -51,14 +50,14 @@
 [Complete Guide to Parameter Tuning in XGBoost (with codes in Python) xgboost参数调优](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)<br>
 [大杀器xgboost指南](http://blog.csdn.net/bryan__/article/details/52056112)<br>
 [xgboost: 速度快效果好的boosting模型](https://cos.name/2015/03/xgboost/)<br>
-
 <br>
-【随机森林】<br>
+
+###随机森林
 (必读)[随机森林算法主页](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)<br>
 (讲的很清楚)[随机森林](http://www.cnblogs.com/maybe2030/p/4585705.html)<br>
-
 <br>
-【word2vec】<br>
+
+###word2vec
 (必读)[word2vec官网](https://code.google.com/archive/p/word2vec/)<br>
 [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546.pdf)<br>
 [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)<br>
@@ -76,9 +75,9 @@
 [word2vec原理推导与代码分析](http://www.hankcs.com/nlp/word2vec.html)<br>
 (必读,CBOW和Skip-gram讲的很通俗易懂)[深度学习笔记——Word2vec和Doc2vec原理理解并结合代码分析](https://blog.csdn.net/mpk_no1/article/details/72458003)<br>
 (必读,几种句向量方法介绍)[An Overview of Sentence Embedding Methods](http://mlexplained.com/2017/12/28/an-overview-of-sentence-embedding-methods/)<br>
-
 <br>
-【NLP】<br>
+
+###NLP
 [推荐系统候选池的两种去重策略](https://mp.weixin.qq.com/s?__biz=MzA4OTk5OTQzMg==&mid=2449231537&idx=1&sn=821697ae129e878b7d5714e4bcd16bc8&chksm=841abf96b36d368065e20e7bf1039ab267efc7067fcbe4b95e854606222735822196de7e2631&mpshare=1&scene=24&srcid=0511BJ2WtN6mAPEfRyWGGGu9&pass_ticket=%2FBT2vdYB2qaBlMLm7WCkhyX%2F%2FCWec2bA4OxLLtm7UXff47YnLRHzb9a4ExG%2BI%2FWk#rd)<br>
 [机器学习 | 八大步骤解决90%的NLP问题](https://zhuanlan.zhihu.com/p/36736328)<br>
 [基于局部敏感哈希的协同过滤算法之simHash算法](https://www.cnblogs.com/hxsyl/p/4456001.html)<br>
@@ -98,9 +97,9 @@
 (必读)[句子相似度算法比较 Comparing Sentence Similarity Methods](http://nlp.town/blog/sentence-similarity/)<br>
 [TF-IDF简介](https://www.cnblogs.com/en-heng/p/5848553.html)<br>
 [idf逆文档频率为什么要用log?](http://52opencourse.com/187/idf%E9%80%86%E6%96%87%E6%A1%A3%E9%A2%91%E7%8E%87%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%94%A8log)<br>
-
 <br>
-【LDA】<br>
+
+###LDA
 [Latent Dirichlet Allocation原始论文](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)<br>
 [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)<br>
 [通俗理解LDA主题模型](http://blog.csdn.net/v_july_v/article/details/41209515?utm_source=tuicool)<br>
@@ -110,14 +109,14 @@
 [LDA工程实践之算法篇-2.SparseLDA算法](http://www.flickering.cn/nlp/2014/10/lda%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5%E4%B9%8B%E7%AE%97%E6%B3%95%E7%AF%87-2-sparselda%E7%AE%97%E6%B3%95/)
 [主题模型算法](http://blog.sina.com.cn/s/blog_8eee7fb60101czhx.html)<br>
 [Spark LDA文档](https://spark.apache.org/docs/latest/mllib-clustering.html#latent-dirichlet-allocation-lda)<br>
-
 <br>
-【SVD】<br>
+
+###SVD
 [We Recommend a Singular Value Decomposition](http://www.ams.org/samplings/feature-column/fcarc-svd)<br>
 [奇异值分解](http://www.flickering.cn/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E/2015/01/%E5%A5%87%E5%BC%82%E5%80%BC%E5%88%86%E8%A7%A3%EF%BC%88we-recommend-a-singular-value-decomposition%EF%BC%89/)<br>
-
 <br>
-【Machine Learing & Deep Learning】<br>
+
+###Machine Learing & Deep Learning
 [浅谈机器学习基础（上）](http://www.jianshu.com/p/ed9ae5385b89)<br>
 (入门必读，讲清了很多基础概念)[零基础入门深度学习](https://www.zybuluo.com/hanbingtao/note/433855)<br>
 (必读)[系列教程：动手学深度学习-使用MXNet](http://zh.gluon.ai/)<br>
@@ -145,16 +144,17 @@
 [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)<br>
 [序列模型和基于LSTM的循环神经网络](https://zhuanlan.zhihu.com/p/28448135)<br>
 [卷积神经网络(CNN)防止过拟合的方法](http://blog.csdn.net/leo_xu06/article/details/71320727)<br>
-
 <br>
-【数学】<br>
+
+###数学
 (必读)[极大似然估计详解](https://blog.csdn.net/zengxiantao1994/article/details/72787849)<br>
-
 <br>
-【其他】<br>
+
+###其他
 [Kaggle 首战拿银总结 | 入门指导 (长文、干货）](https://jizhi.im/blog/post/kaggle_silver)<br>
 [斗鱼大数据的玩法](http://wrox.cn/article/100098261/)<br>
 [Storm 的可靠性保证测试](http://tech.meituan.com/test-of-storms-reliability.html)<br>
 [Scaling Apache Giraph to a trillion edges](https://code.facebook.com/posts/509727595776839/scaling-apache-giraph-to-a-trillion-edges/)<br>
 [Large-scale graph partitioning with Apache Giraph](https://code.facebook.com/posts/274771932683700/large-scale-graph-partitioning-with-apache-giraph/)<br>
 [逻辑回归算法](http://blog.nsfocus.net/tech/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2016/05/19/%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92%E7%AE%97%E6%B3%95.html)<br>
+<br>
