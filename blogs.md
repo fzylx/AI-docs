@@ -71,6 +71,32 @@
 (必读)[《How to Generate a Good Word Embedding?》导读](http://licstar.net/archives/620)
 [机器学习必须熟悉的算法之word2vector（一）](https://www.jianshu.com/p/1405932293ea)
 [机器学习必须熟悉的算法之word2vector（二）](https://www.jianshu.com/p/d0e2d00fb4f0)
+[机器学习算法实现解析——word2vec源码解析](https://blog.csdn.net/google19890102/article/details/51887344)
+[word2vec原理推导与代码分析](http://www.hankcs.com/nlp/word2vec.html)
+(必读,CBOW和Skip-gram讲的很通俗易懂)[深度学习笔记——Word2vec和Doc2vec原理理解并结合代码分析](https://blog.csdn.net/mpk_no1/article/details/72458003)
+(必读,几种句向量方法介绍)[An Overview of Sentence Embedding Methods](http://mlexplained.com/2017/12/28/an-overview-of-sentence-embedding-methods/)
+
+<br>
+【NLP】
+[推荐系统候选池的两种去重策略](https://mp.weixin.qq.com/s?__biz=MzA4OTk5OTQzMg==&mid=2449231537&idx=1&sn=821697ae129e878b7d5714e4bcd16bc8&chksm=841abf96b36d368065e20e7bf1039ab267efc7067fcbe4b95e854606222735822196de7e2631&mpshare=1&scene=24&srcid=0511BJ2WtN6mAPEfRyWGGGu9&pass_ticket=%2FBT2vdYB2qaBlMLm7WCkhyX%2F%2FCWec2bA4OxLLtm7UXff47YnLRHzb9a4ExG%2BI%2FWk#rd)
+[机器学习 | 八大步骤解决90%的NLP问题](https://zhuanlan.zhihu.com/p/36736328)
+[基于局部敏感哈希的协同过滤算法之simHash算法](https://www.cnblogs.com/hxsyl/p/4456001.html)
+[.NET下文本相似度算法余弦定理和SimHash浅析及应用](http://www.cnblogs.com/weiguang3100/p/4183705.html)
+[浅谈simhash及其python实现](https://blog.csdn.net/madujin/article/details/53152619)
+[简单易懂讲解simhash算法 hash 哈希](https://blog.csdn.net/le_le_name/article/details/51615931)
+[使用SimHash进行海量文本去重](https://www.cnblogs.com/maybe2030/p/5203186.html)
+[局部敏感哈希算法(Locality Sensitive Hashing)](http://www.cnblogs.com/maybe2030/p/4953039.html)
+[中文文档simhash值计算](https://github.com/yanyiwu/simhash)
+[simhash算法原理及实现](https://yanyiwu.com/work/2014/01/30/simhash-shi-xian-xiang-jie.html)
+[基于 TWE 模型的关键词提取](http://hejunhao.me/archives/918)
+[Topical Word Embeddings](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9314/9535)
+[【论文阅读】Topical Word Embeddings](https://blog.csdn.net/u014568072/article/details/78679925)
+[CODE][topical_word_embeddings](https://github.com/largelymfs/topical_word_embeddings)
+[深度学习解决NLP问题：语义相似度计算](https://www.cnblogs.com/qniguoym/p/7772561.html)
+[语义文本相似度研究进展](https://cloud.tencent.com/developer/news/224166)
+(必读)[句子相似度算法比较 Comparing Sentence Similarity Methods](http://nlp.town/blog/sentence-similarity/)
+[TF-IDF简介](https://www.cnblogs.com/en-heng/p/5848553.html)
+[idf逆文档频率为什么要用log?](http://52opencourse.com/187/idf%E9%80%86%E6%96%87%E6%A1%A3%E9%A2%91%E7%8E%87%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%94%A8log)
 
 <br>
 【LDA】
@@ -91,6 +117,7 @@
 
 <br>
 【Machine Learing & Deep Learning】
+[浅谈机器学习基础（上）](http://www.jianshu.com/p/ed9ae5385b89)
 (入门必读，讲清了很多基础概念)[零基础入门深度学习](https://www.zybuluo.com/hanbingtao/note/433855)
 (必读)[系列教程：动手学深度学习-使用MXNet](http://zh.gluon.ai/)
 (必读)[系列教程：机器学习速成课程-使用TensorFlow(google出品)](https://developers.google.cn/machine-learning/crash-course/)
@@ -117,14 +144,16 @@
 [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 [序列模型和基于LSTM的循环神经网络](https://zhuanlan.zhihu.com/p/28448135)
 [卷积神经网络(CNN)防止过拟合的方法](http://blog.csdn.net/leo_xu06/article/details/71320727)
-<br>
 
+<br>
+【数学】
+(必读)[极大似然估计详解](https://blog.csdn.net/zengxiantao1994/article/details/72787849)
+
+<br>
 【其他】
-[浅谈机器学习基础（上）](http://www.jianshu.com/p/ed9ae5385b89)
 [Kaggle 首战拿银总结 | 入门指导 (长文、干货）](https://jizhi.im/blog/post/kaggle_silver)
 [斗鱼大数据的玩法](http://wrox.cn/article/100098261/)
 [Storm 的可靠性保证测试](http://tech.meituan.com/test-of-storms-reliability.html)
 [Scaling Apache Giraph to a trillion edges](https://code.facebook.com/posts/509727595776839/scaling-apache-giraph-to-a-trillion-edges/)
 [Large-scale graph partitioning with Apache Giraph](https://code.facebook.com/posts/274771932683700/large-scale-graph-partitioning-with-apache-giraph/)
 [逻辑回归算法](http://blog.nsfocus.net/tech/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/2016/05/19/%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92%E7%AE%97%E6%B3%95.html)
-[推荐系统候选池的两种去重策略](https://mp.weixin.qq.com/s?__biz=MzA4OTk5OTQzMg==&mid=2449231537&idx=1&sn=821697ae129e878b7d5714e4bcd16bc8&chksm=841abf96b36d368065e20e7bf1039ab267efc7067fcbe4b95e854606222735822196de7e2631&mpshare=1&scene=24&srcid=0511BJ2WtN6mAPEfRyWGGGu9&pass_ticket=%2FBT2vdYB2qaBlMLm7WCkhyX%2F%2FCWec2bA4OxLLtm7UXff47YnLRHzb9a4ExG%2BI%2FWk#rd)
