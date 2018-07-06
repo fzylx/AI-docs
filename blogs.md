@@ -1,5 +1,5 @@
 【Spark+Hadoop基础】
-(必读)[Spark官方文档](http://spark.apache.org/docs/latest/)
+(必读)[Spark官方文档](http://spark.apache.org/docs/latest/)<br>
 (必读)[Spark ML 官方文档](http://spark.apache.org/docs/latest/ml-guide.html)
 (必读)[Spark参数配置官方文档](http://spark.apache.org/docs/latest/configuration.html)
 [Spark在美团的实践](http://tech.meituan.com/spark-in-meituan.html)
