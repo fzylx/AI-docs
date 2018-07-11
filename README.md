@@ -57,7 +57,7 @@
 (讲的很清楚)[随机森林](http://www.cnblogs.com/maybe2030/p/4585705.html)<br>
 <br>
 
-### word2vec<br>
+### word2vec & embeddings<br>
 (必读)[word2vec官网](https://code.google.com/archive/p/word2vec/)<br>
 [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546.pdf)<br>
 [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)<br>
